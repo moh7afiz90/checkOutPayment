@@ -1,0 +1,20 @@
+
+body { 
+    margin-top:20px; 
+    background-color: #efe6d0;
+}
+
+.panel-body.main {
+    background-color: #edebe8;
+}
+.container-fluid{
+    margin: 50px;
+    padding: 30px;
+}
+.panel-title {display: inline;font-weight: bold;}
+.checkbox.pull-right { margin: 0; }
+.pl-ziro { padding-left: 0px; }
+
+.toInput {
+  
+}
